@@ -2,7 +2,7 @@
 IMUNES - an Integrated Multiprotocol Network Emulator / Simulator
 ************************************************************************
 
-Overview
+Overview:
 ========
 
 IMUNES GUI is a simple Tcl/Tk based management console, allowing for
