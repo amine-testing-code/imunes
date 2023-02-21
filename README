@@ -13,7 +13,7 @@ execution engine itself operates within the operating system kernel.
 System requirements:
 ===================
 
-    1) Operating system::
+    1) Operating system:::
 
     IMUNES works on top of the FreeBSD 8 (or higher) kernel that is
     compiled with the VIMAGE option included. A sample kernel kernel
