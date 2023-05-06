@@ -9,7 +9,7 @@ execution engine itself operates within the operating system kernel.
 System requirements
 -------------------
 
-## Operating system (FreeBSD)
+## Operating system (FreeBSD):
 
 Note: Since FreeBSD 12.0, kernel option VIMAGE is already included in the kernel, so there is no need to recompile the kernel with it.
 
